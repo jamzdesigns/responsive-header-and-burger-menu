@@ -1,4 +1,4 @@
-# responsive-header-and-burger-menu
+# responsive header and burger menu
 
 -Modern header and burger menu design
 
