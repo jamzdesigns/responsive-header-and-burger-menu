@@ -1,6 +1,6 @@
 # responsive header and burger menu
 
-# view this video here: https://youtu.be/WZCzWtOSFiI
+# view video here: https://youtu.be/WZCzWtOSFiI
 
 -Modern header and burger menu design
 
